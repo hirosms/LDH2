@@ -1,0 +1,10 @@
+/config/
+/evolutionary_algorithms/
+/factory_interface/
+/factory_method/
+/local_search/
+/metaheurictics/
+/metaheuristics/
+/problem/
+/problem_operators/
+/test/
